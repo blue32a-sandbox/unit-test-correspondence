@@ -1,0 +1,8 @@
+{
+    "name": "blue32a-sandbox/unit-test-correspondence",
+    "description": "Unit Test Correspondence",
+    "type": "project",
+    "license": "proprietary",
+    "private": true,
+    "minimum-stability": "stable"
+}
